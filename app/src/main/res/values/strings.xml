@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">book</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="Favourite">favourite</string>
+    <string name="about_app">About App</string>
+    <string name="profile">Profile</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard_fragment</string>
+    <string name="favourite_fragment">favourite_fragment</string>
+    <string name="profile_fragment">profile_fragment</string>
+    <string name="about_app_fragment">about_app_fragment</string>
+
+</resources>
